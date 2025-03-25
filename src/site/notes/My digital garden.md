@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/my-digital-garden/","tags":["gardenEntry"]}
----
-
-
-
-my gardeenn yeahh
